@@ -6,7 +6,7 @@ top.alquimia = [
 
 
 
-  {"title": "d6 Hair The ogre’s hair is...", "id":"d6hairtheogre’shairis_ogre", "roll":[
+  {"title": "d6 Hair The ogre’s hair is...", "id":"d6hairtheogre’shairis_ogree", "roll":[
   "Long and stringy.",
   "Wispy and thin.",
   "Dark and matted.",
