@@ -116,7 +116,7 @@ function clearright() {
 function get_table(table){
   switch(table) {
     case "alquimia":
-      return top.pociones;
+      return top.alquimia;
       break;
     case "forja":
       return top.forja;
